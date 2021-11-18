@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ViewLatihan</string>
+    <string name="content_text">Sate Padang adalah sebutan untuk
+        tiga jenis varian sate di Sumatra Barat, yaitu Sate Padang,
+        Sate Padang Panjang dan Sate Pariaman. Sate Padang memakai
+        bahan daging sapi, lidah, atau jerohan (jantung, usus,dan tetelan)
+        dengan bumbu kuah kacang kental (mirip bubur) ditambah cabai yang
+        banyak sehingga rasanya pedas. Sate Padang Panjang dibedakan dengan
+        kuah sate nya yang berwarna kuning sedangkan sate Pariaman kuahnya berwarna
+        merah. Rasa kedua jenis sate ini juga berbeda. Sedangkan sate
+        Padang mempunyai bermacam rasa perpaduan kedua jenis varian sate di atas. </string>
+
+    <string name="text_pizza">Pizza adalah hidangan gurih dari Italia sejenis adonan
+        bundar dan pipih, yang dipanggang di oven dan biasanya dilumuri saus tomat
+        serta keju dengan bahan makanan tambahan lainnya yang bisa dipilih. Keju yang
+        dipakai biasanya mozzarella atau "keju pizza", bisa juga keju parmesan dan beberapa keju lainnya</string>
+
+    <string name="content_specs_harga">Rp. 20K</string>
+    <string name="content_specs_pizza">Rp. 100K</string>
+
+    <string name="content_specs_bahan">Tepung, Ayam, Bumbu masak</string>
+    <string name="specs_bahan_pizza">Tepung terigu, Saus tomat, Mozarella, Sosis</string>
+
+    <string name="content_specs_jenis">Makanan berkuah</string>
+    <string name="specs_jenis_pizza">Roti yang berbentuk bulat</string>
+
+    <string name="stock">Stock hanya 5 bungkus</string>
+    <string name="stock_pizza">Stock hanya 10 kotak</string>
+
+    <string name="keterangan">Keterangan</string>
+    <string name="harga">Harga</string>
+    <string name="bahan">Bahan</string>
+    <string name="jenis">jenis</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Dewi Asmita Lubis</string>
+    <string name="buy">Yuk Beli</string>
+
+    <string name="dummy_value">Rp. 20K</string>
+    <string name="dummy_value_pizza">Rp. 100K</string>
+
+    <string name="dummy_photos">4 photos</string>
+    <string name="sate_padang">Sate Padang</string>
+    <string name="pizza">Pizza</string>
+</resources>
